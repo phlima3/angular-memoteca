@@ -132,3 +132,19 @@ input[type="radio"]:checked + .custom-radio {
 input[type="radio"]:checked + .custom-radio span {
   background: #154580;
 }
+.mensagem__erro {
+  font-size: 12px;
+  margin-left: 5px;
+  color: red !important;
+  margin-top: -25px;
+  margin-bottom: 20px;
+}
+
+.mensagem__erro span {
+  color: red !important;
+}
+.botao__desabilitado {
+  margin: 5px;
+  margin-top: 70px;
+  width: 200px;
+}
