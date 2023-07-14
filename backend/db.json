@@ -3,7 +3,7 @@
     {
       "id": 1,
       "conteudo": "Editar",
-      "autoria": "Penis",
+      "autoria": "teste",
       "modelo": "modelo2"
     },
     {
@@ -52,12 +52,6 @@
       "id": 9,
       "conteudo": "A vida é melhor para aqueles que fazem o possível para ter o melhor - John Wooden",
       "autoria": "John Wooden",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 10,
-      "conteudo": "Se você não está disposto a arriscar, esteja disposto a uma vida comum. - Jim Rohn",
-      "autoria": "Jim",
       "modelo": "modelo3"
     }
   ]
