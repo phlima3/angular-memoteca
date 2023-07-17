@@ -4,55 +4,64 @@
       "id": 1,
       "conteudo": "Editar",
       "autoria": "teste",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "A imaginação é mais importante que o conhecimento.",
       "autoria": "Albert Einstein",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "O que me preocupa não é o grito dos maus. É o silêncio dos bons.",
       "autoria": "Martin Luther King",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "O insucesso é apenas uma oportunidade para recomeçar de novo com mais inteligência.",
       "autoria": "Henry Ford",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 5,
       "conteudo": "O verdadeiro heroísmo consiste em persistir por mais um momento, quando tudo parece perdido.",
       "autoria": "W. F. Grenfel",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 6,
       "conteudo": "O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível.",
       "autoria": "Max Weber",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 7,
       "conteudo": "Se você traçar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos.",
       "autoria": "James Cameron",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 8,
       "conteudo": "O sucesso normalmente vem para quem está ocupado demais para procurar por ele.",
       "autoria": "Henry David Thoreau",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 9,
       "conteudo": "A vida é melhor para aqueles que fazem o possível para ter o melhor - John Wooden",
       "autoria": "John Wooden",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     }
   ]
 }
